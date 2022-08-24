@@ -4,6 +4,8 @@
 
 **Professor:** [Rodrigo Rebouças de Almeida](http://rodrigor.dcx.ufpb.br)
 
+(Este repositório possui um exemplo de resposta para a atividade descrita abaixo.)
+
 # Atividade 
 
 Faça um programa em Java que cadastra disciplinas, turmas e matricula alunos em uma turma. Em seguida lista os alunos matriculados em uma determinada turma.
